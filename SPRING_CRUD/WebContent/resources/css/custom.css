@@ -1,0 +1,12 @@
+.link
+{
+	text-decoration:none;
+}
+
+div.fixed {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 250px;
+
+}
